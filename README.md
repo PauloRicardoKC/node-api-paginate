@@ -27,5 +27,5 @@ At the terminal, run the command npm install command to restore the packages.
 
 <h3>Run Application</h3>
 At the terminal, run the command npm run dev. 
-At the Postman, simulate the verbs [GET, POST, PUT, DELETE] to http://localhost:3000/api/brands or http://localhost:3000/api/cars. 
-Pagination example: http://localhost:3000/api/cars?page=2
+At the Postman, simulate the verbs [GET, POST, PUT, DELETE] to http://localhost:4000/api/brands or http://localhost:4000/api/cars. 
+Pagination example: http://localhost:4000/api/cars?page=2
